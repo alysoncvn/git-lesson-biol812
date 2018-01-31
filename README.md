@@ -2,6 +2,8 @@
 This is the demo git repository 
 ### What is going on
 
+a non-breaking offline change
+
 Maybe this where we'd say how to install our software
 
   * maybe do this
